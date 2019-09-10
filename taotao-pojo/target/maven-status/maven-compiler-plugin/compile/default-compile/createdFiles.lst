@@ -1,0 +1,17 @@
+com\whx\taotao\pojo\TbOrderShipping.class
+com\whx\taotao\order\OrderBean.class
+com\whx\taotao\order\OrderItem.class
+com\whx\taotao\pojo\TbItemDesc.class
+com\whx\taotao\pojo\TbOrder.class
+com\whx\taotao\order\OrderShipping.class
+com\whx\taotao\pojo\TbShopcar.class
+com\whx\taotao\pojo\TbContentCategory.class
+com\whx\taotao\pojo\TbItemParam.class
+com\whx\taotao\easyUI\pojo\EasyUIPageDatasBean.class
+com\whx\taotao\pojo\TbItemParamItem.class
+com\whx\taotao\pojo\TbOrderItem.class
+com\whx\taotao\pojo\TbUser.class
+com\whx\taotao\easyUI\pojo\EasyUITreeBean.class
+com\whx\taotao\pojo\TbContent.class
+com\whx\taotao\pojo\TbItem.class
+com\whx\taotao\pojo\TbItemCat.class

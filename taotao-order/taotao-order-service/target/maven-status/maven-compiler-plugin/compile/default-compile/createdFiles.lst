@@ -1,0 +1,6 @@
+com\whx\taotao\order\domain\OrderStaus.class
+com\whx\taotao\order\service\OrderServiceImpl.class
+com\whx\taotao\order\dao\OrderDao.class
+com\whx\taotao\order\service\OrderLis.class
+com\whx\taotao\order\controller\OrderController.class
+com\whx\taotao\order\service\UtilGenOrderID.class

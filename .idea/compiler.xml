@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="taotao-pay-inter" />
+        <module name="taotao-manager-inter" />
+        <module name="taotao-shopcar-service" />
+        <module name="taotao-order-inter" />
+        <module name="taotao-order-service" />
+        <module name="taotao-pojo" />
+        <module name="taotao-search-inter" />
+        <module name="taotao-shopcar-inter" />
+        <module name="taotao-detail" />
+        <module name="taotao-search-service" />
+        <module name="taotao-manager-service" />
+        <module name="taotao-pay-service" />
+        <module name="taotao-commons" />
+        <module name="taotao-protal" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

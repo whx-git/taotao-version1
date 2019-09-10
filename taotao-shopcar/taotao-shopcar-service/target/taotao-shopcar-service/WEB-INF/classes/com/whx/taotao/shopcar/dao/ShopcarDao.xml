@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--引入DTD约束-->
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!-- 开始构建映射-->
+<mapper namespace="com.whx.taotao.shopcar.dao.ShopcarDao">
+
+    <select id="queryById" resultType="com.whx.taotao.pojo.TbShopcar">
+        select * from tb_shopcar where id in
+        <foreach collection="array" open="(" close=")" separator="," item="item">
+            #{item}
+        </foreach>
+    </select>
+
+
+</mapper>

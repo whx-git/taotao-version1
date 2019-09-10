@@ -1,0 +1,4 @@
+com\whx\taotao\pay\controller\PayResultController.class
+com\whx\taotao\pay\controller\PayController.class
+com\whx\taotao\pay\service\PayServiceImpl.class
+com\whx\taotao\pay\dao\PayDao.class
